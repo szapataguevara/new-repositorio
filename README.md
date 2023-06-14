@@ -1,1 +1,0 @@
-prueba de crear un repositorio y clonarlo desde gibhub a mi computadora
